@@ -5,6 +5,13 @@ banana
 pasta
 chicken fry
 
+pizza
+beans
+
+
 thank you
 
+Done my changes
+
 final copy
+
